@@ -25,7 +25,7 @@ export async function generateMetadata() {
 }
 
 export default async function LocaleLayout({ children, params }: Props) {
-  const locale = params.locale;
+  const { locale } = params;
 
   if (!locales.includes(locale as Locale)) {
     notFound();
