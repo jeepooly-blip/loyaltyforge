@@ -1,41 +1,41 @@
 {
   "common": {
     "appName": "LoyaltyForge",
-    "loading": "Loading...",
-    "error": "Error",
-    "success": "Success",
-    "save": "Save",
-    "cancel": "Cancel",
-    "delete": "Delete",
-    "edit": "Edit",
-    "create": "Create",
-    "search": "Search",
-    "back": "Back",
-    "next": "Next",
-    "confirm": "Confirm",
-    "yes": "Yes",
-    "no": "No",
-    "none": "None",
-    "all": "All",
-    "of": "of",
-    "total": "Total",
-    "status": "Status",
-    "actions": "Actions",
-    "details": "Details",
-    "close": "Close",
-    "submit": "Submit",
-    "required": "Required",
-    "optional": "Optional",
-    "name": "Name",
-    "email": "Email",
-    "password": "Password",
-    "createdAt": "Created",
-    "members": "Members",
-    "customers": "Customers",
-    "programs": "Programs",
-    "transactions": "Transactions",
-    "points": "Points",
-    "stamps": "Stamps"
+    "loading": "Yuklanmoqda...",
+    "error": "Xato",
+    "success": "Muvaffaqiyatli",
+    "save": "Saqlash",
+    "cancel": "Bekor qilish",
+    "delete": "O'chirish",
+    "edit": "Tahrirlash",
+    "create": "Yaratish",
+    "search": "Qidirish",
+    "back": "Orqaga",
+    "next": "Keyingi",
+    "confirm": "Tasdiqlash",
+    "yes": "Ha",
+    "no": "Yo'q",
+    "none": "Yo'q",
+    "all": "Hammasi",
+    "of": "dan",
+    "total": "Jami",
+    "status": "Holat",
+    "actions": "Amallar",
+    "details": "Batafsil",
+    "close": "Yopish",
+    "submit": "Yuborish",
+    "required": "Majburiy",
+    "optional": "Ixtiyoriy",
+    "name": "Nomi",
+    "email": "Elektron pochta",
+    "password": "Parol",
+    "createdAt": "Yaratilgan",
+    "members": "A'zolar",
+    "customers": "Mijozlar",
+    "programs": "Dasturlar",
+    "transactions": "Tranzaksiyalar",
+    "points": "Ballar",
+    "stamps": "Muhr belgilari"
   },
   "nav": {
     "dashboard": "Boshqaruv paneli",
@@ -45,7 +45,7 @@
     "challenges": "Musobaqalar",
     "referrals": "Tavsiyalar",
     "oneStamps": "Bir martalik muhrlar",
-    "scratchGames": "Scratch o'yinlar",
+    "scratchGames": "Kazima o'yinlar",
     "analytics": "Analitika",
     "apiKeys": "API va Vidget",
     "settings": "Sozlamalar",
@@ -72,7 +72,7 @@
       "stat1Value": "15-30%",
       "stat1Label": "ko'proq takroriy tashriflar",
       "stat2Value": "3x",
-      "stat2Label": "sadoyat uchun ROI",
+      "stat2Label": "sadoyat xarajatlari uchun ROI",
       "stat3Value": "Bepul",
       "stat3Label": "boshlash uchun"
     },
@@ -80,396 +80,396 @@
       "title": "Butun dunyodagi kafelar ishonadi"
     },
     "howItWorks": {
-      "title": "How It Works",
-      "subtitle": "Simple by design",
+      "title": "Qanday ishlaydi",
+      "subtitle": "Oddiy loyihalashtirilgan",
       "step1": {
-        "title": "Create Your Program",
-        "desc": "Choose from stamp cards, points programs, or tiered VIP memberships. Set your rules, name your rewards, and preview everything before you publish."
+        "title": "Dasturingizni yarating",
+        "desc": "Muhr kartalari, ballar dasturi yoki bosqichli VIP a'zoligini tanlang. Qoidalaringizni belgilang, mukofotlaringizni nomlang va nashr etishdan oldin hamma narsani oldindan ko'ring."
       },
       "step2": {
-        "title": "Customers Join",
-        "desc": "Share a unique QR code in-store, embed a widget on your website, or connect via API. Signing up takes seconds — no app download required."
+        "title": "Mijozlar qo'shiladi",
+        "desc": "Do'konda noyob QR kodni ulashing, veb-saytingizga vidgetni joylashtiring yoki API orqali bog'laning. Ro'yxatdan o'tish soniyalar oladi — ilova yuklab olish talab qilinmaydi."
       },
       "step3": {
-        "title": "Watch Loyalty Grow",
-        "desc": "Track visits, redemptions, and lifetime value in real time. Analytics show what rewards and challenges drive the most engagement."
+        "title": "Sadoyat o'sishini kuzating",
+        "desc": "Tashriflarni, evazga almashtirishlarni va umr bo'yi qiymatni real vaqtda kuzating. Analitika qaysi mukofotlar va musobaqalar eng ko'p jalb qilishini ko'rsatadi."
       }
     },
     "features": {
-      "title": "Everything You Need",
-      "subtitle": "Whether you run a single shop or a chain, LoyaltyForge gives you the tools to build a program that fits your brand perfectly.",
+      "title": "Sizga kerakli hamma narsa",
+      "subtitle": "Bitta do'kon yoki tarmoqni boshqarishdan qat'i nazar, LoyaltyForge brendingizga mos dastur yaratish uchun vositalarni beradi.",
       "stampCards": {
-        "title": "Stamp Cards",
-        "desc": "The classic punch card, digitized. Customers collect stamps with every purchase and redeem rewards at thresholds you set."
+        "title": "Muhr kartalari",
+        "desc": "Klassik muhr kartasi, raqamlangan. Mijozlar har bir xaridda muhr to'playdi va siz belgilagan chegaralarda mukofotlarni evazga almashtiradi."
       },
       "points": {
-        "title": "Points Economy",
-        "desc": "Earn points per dollar spent. Let customers redeem for discounts, freebies, or exclusive items — fully configurable."
+        "title": "Ballar iqtisodiyoti",
+        "desc": "Har bir sarflangan dollar uchun ball to'plang. Mijozlarga chegirmalar, bepul mahsulotlar yoki eksklyuziv buyumlar evaziga almashtirishga imkon bering — to'liq sozlanishi mumkin."
       },
       "tiered": {
-        "title": "Tiered VIP",
-        "desc": "Bronze, Silver, Gold — reward your biggest spenders with escalating perks. Tiers unlock automatically based on activity."
+        "title": "Bosqichli VIP",
+        "desc": "Bronza, Kumush, Oltin — eng ko'p sarflaydiganlaringizni ortib boradigan imtiyozlar bilan taqdirlang. Darajalar faoliyatga asosan avtomatik ochiladi."
       },
       "challenges": {
-        "title": "Challenges & Milestones",
-        "desc": "Gamify the experience. Set challenges like \"Visit 5 days in a row\" and unlock milestone badges that keep customers engaged."
+        "title": "Musobaqalar va yutuqlar",
+        "desc": "Tajribani o'yinlashtiring. '5 kun ketma-ket tashrif buyuring' kabi musobaqalar belgilang va mijozlarni jalb qiladigan yutuq nishonlarini oching."
       },
       "rewards": {
-        "title": "Rewards Catalog",
-        "desc": "Coupons, free items, experiential rewards, or even charity donations. Build a catalog your customers actually want."
+        "title": "Mukofotlar katalogi",
+        "desc": "Kuponlar, bepul narsalar, tajriba asosidagi mukofotlar yoki hatto xayriya hissalari. Mijozlaringiz haqiqatan xohlaydigan katalog yarating."
       },
       "scratch": {
-        "title": "Scratch & Win",
-        "desc": "Interactive digital scratch cards after every purchase. Instant gratification that drives repeat visits and social sharing."
+        "title": "Kazima va yutib oling",
+        "desc": "Har bir xariddan keyin interaktiv raqamli kazima kartalari. Takroriy tashriflarni va ijtimoiy ulashishni rag'batlantiradigan lahzaviy qoniqish."
       }
     },
     "stats": {
-      "title": "Loyalty That Pays Off",
-      "subtitle": "Proven results",
-      "stat1Label": "more repeat visits",
-      "stat2Label": "purchase frequency",
-      "stat3Label": "higher CLV",
-      "roiLabel": "return on investment"
+      "title": "Sadoyati o'zini oqlaydi",
+      "subtitle": "Isbotlangan natijalar",
+      "stat1Label": "ko'proq takroriy tashriflar",
+      "stat2Label": "xarid chastotasi",
+      "stat3Label": "yuqori CLV",
+      "roiLabel": "investitsiya daromadi"
     },
     "integrations": {
-      "title": "Connects to Your Existing Setup"
+      "title": "Mavjud tizimingizga ulanadi"
     },
     "pricing": {
-      "title": "Start Free, Scale When Ready",
-      "subtitle": "No hidden fees. No contracts. Upgrade or downgrade anytime.",
+      "title": "Bepul boshlang, tayyor bo'lganda kengaytiring",
+      "subtitle": "Yashirin to'lovlar yo'q. Shartnomalar yo'q. Istalgan vaqtda yangilang yoki pasaytiring.",
       "starter": {
-        "name": "Starter",
-        "desc": "Perfect for testing the waters"
+        "name": "Boshlang'ich",
+        "desc": "Sinab ko'rish uchun mukammal"
       },
       "growth": {
-        "name": "Growth",
-        "desc": "For cafes ready to scale loyalty",
-        "popular": "Most Popular"
+        "name": "O'sish",
+        "desc": "Sadoyatni kengaytirishga tayyor kafelar uchun",
+        "popular": "Eng mashhur"
       },
       "scale": {
-        "name": "Scale",
-        "desc": "For multi-location operations"
+        "name": "Masshtab",
+        "desc": "Ko'p joylashuvli operatsiyalar uchun"
       },
-      "cta": "Start Free",
-      "ctaGrowing": "Start Growing",
-      "ctaContact": "Contact Sales"
+      "cta": "Bepul boshlang",
+      "ctaGrowing": "O'sishni boshlang",
+      "ctaContact": "Sotish bo'limiga murojaat qiling"
     },
     "testimonials": {
-      "title": "What Our Customers Say",
-      "subtitle": "Real cafe owners"
+      "title": "Mijozlarimiz nima deydi",
+      "subtitle": "Haqiqiy kafe egalaridan"
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "subtitle": "Common questions",
+      "title": "Ko'p beriladigan savollar",
+      "subtitle": "Umumiy savollar",
       "faq1": {
-        "q": "How does LoyaltyForge work?",
-        "a": "LoyaltyForge lets you create a digital loyalty program in minutes. Choose a template (stamp card, points, or tiered), set your rules, and share it with customers via QR code, website widget, or API. Customers earn rewards automatically with every purchase."
+        "q": "LoyaltyForge qanday ishlaydi?",
+        "a": "LoyaltyForge sizga daqiqalar ichida raqamli sadoyat dasturini yaratish imkonini beradi. Shablon tanlang (muhr kartasi, ballar yoki bosqichli), qoidalaringizni belgilang va QR kod, veb-sayt vidgeti yoki API orqali mijozlar bilan ulashing. Mijozlar har bir xariddan avtomatik ravishda mukofot oladi."
       },
       "faq2": {
-        "q": "How much does it cost?",
-        "a": "We offer a free Starter plan for up to 100 members with no time limit. Growth ($29/mo) unlocks advanced features for growing cafes, and Scale ($99/mo) supports multi-location operations with unlimited members."
+        "q": "Qancha turadi?",
+        "a": "Biz 100 tagacha a'zo uchun vaqt chegarasi bo'lmagan bepul Boshlang'ich rejamizni taklif qilamiz. O'sish ($29/oy) o'sayotgan kafelar uchun kengaytirilgan funksiyalarni ochadi va Masshtab ($99/oy) cheksiz a'zolar bilan ko'p joylashuvli operatsiyalarni qo'llab-quvvatlaydi."
       },
       "faq3": {
-        "q": "How long does setup take?",
-        "a": "Most cafe owners have their program live within 15 minutes. You pick a template, customize the name and rewards, generate your QR code, and you're ready to go. No developer needed."
+        "q": "O'rnatish qancha vaqt oladi?",
+        "a": "Aksariyat kafe egalari dasturlarini 15 daqiqa ichida ishga tushirishadi. Shablonni tanlang, nom va mukofotlarni sozlang, QR kodni yarating va tayyor. Dasturchi kerak emas."
       },
       "faq4": {
-        "q": "Does it integrate with my POS?",
-        "a": "LoyaltyForge provides a REST API and embeddable widget that work with any POS or website. You can enroll customers, award points, and check balances from any system with a single API key. Direct integrations with Shopify, Square, and Lightspeed are on our roadmap."
+        "q": "Mening POS tizimim bilan integratsiyalanadimi?",
+        "a": "LoyaltyForge har qanday POS yoki veb-sayt bilan ishlaydigan REST API va joylashtiriladigan vidgetni taqdim etadi. Mijozlarni ro'yxatdan o'tkazish, ball berish va har qanday tizimdan bitta API kaliti bilan balanslarni tekshirish mumkin. Shopify, Square va Lightspeed bilan to'g'ridan-to'g'ri integratsiyalar rejalashtirilgan."
       },
       "faq5": {
-        "q": "Is there an API?",
-        "a": "Absolutely. Our REST API lets you enroll customers, award points, process redemptions, and check balances from any POS, website, or mobile app. Full documentation is included with every Growth plan and above."
+        "q": "API bormi?",
+        "a": "Albatta. Bizning REST API sizga har qanday POS, veb-sayt yoki mobil ilovadan mijozlarni ro'yxatdan o'tkazish, ball berish, evazga almashtirishlarni qayta ishlash va balanslarni tekshirish imkonini beradi. To'liq hujjatlar har bir O'sish rejasidan boshlab kiritilgan."
       },
       "faq6": {
-        "q": "What kind of support do you offer?",
-        "a": "All plans include access to our contact form for help with setup and questions. The Growth plan includes full API documentation. We respond to all inquiries within 24 hours."
+        "q": "Qanday yordam ko'rsatasiz?",
+        "a": "Barcha rejalarga o'rnatish va savollarda yordam uchun aloqa shaklimizga kirish huquqi kiritilgan. O'sish rejasiga to'liq API hujjatlari kiritilgan. Barcha so'rovlarga 24 soat ichida javob beramiz."
       }
     },
     "cta": {
-      "title": "Ready to Build Customer Loyalty?",
-      "subtitle": "Join cafe owners who are turning one-time buyers into lifelong regulars.",
-      "button": "Get Started Free",
-      "note": "Free to start. No credit card required."
+      "title": "Mijozlar sadoyatini qurishga tayyormisiz?",
+      "subtitle": "Bir marta xarid qiluvchilarni umrbod doimiy a'zolarga aylantirayotgan kafe egalari bilan qo'shiling.",
+      "button": "Bepul boshlang",
+      "note": "Bepul boshlash. Karta ma'lumoti talab qilinmaydi."
     },
     "footer": {
-      "product": "Product",
-      "company": "Company",
-      "legal": "Legal",
-      "contactSupport": "Contact Support",
-      "getStarted": "Get Started",
-      "signIn": "Sign In",
-      "features": "Features",
-      "pricing": "Pricing",
-      "apiDocs": "API & Widget",
-      "copyright": "All rights reserved. Built for cafe owners, not enterprises."
+      "product": "Mahsulot",
+      "company": "Kompaniya",
+      "legal": "Huquqiy",
+      "contactSupport": "Qo'llab-quvvatlash bilan bog'lanish",
+      "getStarted": "Boshlash",
+      "signIn": "Kirish",
+      "features": "Imkoniyatlar",
+      "pricing": "Narxlar",
+      "apiDocs": "API va Vidget",
+      "copyright": "Barcha huquqlar himoyalangan. Kafe egallari uchun yaratilgan, korxonalar uchun emas."
     }
   },
   "auth": {
     "login": {
-      "title": "Welcome back",
-      "subtitle": "Sign in to your account",
-      "emailPlaceholder": "you@example.com",
-      "passwordPlaceholder": "Enter your password",
-      "submit": "Sign In",
-      "noAccount": "Don't have an account?",
-      "createOne": "Create one"
+      "title": "Qaytib kelganingiz bilan",
+      "subtitle": "Hisobingizga kiring",
+      "emailPlaceholder": "siz@namuna.com",
+      "passwordPlaceholder": "Parolni kiriting",
+      "submit": "Kirish",
+      "noAccount": "Hisobingiz yo'qmi?",
+      "createOne": "Yarating"
     },
     "register": {
-      "title": "Create your account",
-      "subtitle": "Start building loyalty in minutes",
-      "cafeName": "Cafe / Business Name",
-      "cafeNamePlaceholder": "e.g. Sunrise Coffee",
+      "title": "Hisobingizni yarating",
+      "subtitle": "Sadoyat qurishni daqiqalarda boshlang",
+      "cafeName": "Kafe / Biznes nomi",
+      "cafeNamePlaceholder": "masalan, Sunrise Coffee",
       "slug": "URL slug",
       "slugPlaceholder": "sunrise-coffee",
-      "emailPlaceholder": "you@example.com",
-      "passwordPlaceholder": "Create a password",
-      "submit": "Create Account",
-      "hasAccount": "Already have an account?",
-      "signIn": "Sign in"
+      "emailPlaceholder": "siz@namuna.com",
+      "passwordPlaceholder": "Parol yarating",
+      "submit": "Hisob yaratish",
+      "hasAccount": "Hisobingiz bormi?",
+      "signIn": "Kirish"
     }
   },
   "dashboard": {
-    "welcome": "Welcome back",
-    "overview": "Here's what's happening with your loyalty programs.",
-    "totalMembers": "Total Members",
-    "activePrograms": "Active Programs",
-    "totalPointsIssued": "Total Points Issued",
-    "recentActivity": "Recent Activity",
-    "noActivity": "No recent activity"
+    "welcome": "Qaytib kelganingiz bilan",
+    "overview": "Sadoyat dasturlaringiz bilan nima bo'layotganini quyida ko'rishingiz mumkin.",
+    "totalMembers": "Jami a'zolar",
+    "activePrograms": "Faol dasturlar",
+    "totalPointsIssued": "Jami berilgan ballar",
+    "recentActivity": "So'nggi faoliyat",
+    "noActivity": "So'nggi faoliyat yo'q"
   },
   "programs": {
-    "title": "Loyalty Programs",
-    "new": "New Program",
-    "empty": "No programs yet. Create your first loyalty program to get started.",
+    "title": "Sadoyat dasturlari",
+    "new": "Yangi dastur",
+    "empty": "Hali dasturlar yo'q. Boshlash uchun birinchi sadoyat dasturingizni yarating.",
     "types": {
-      "STAMP": "Stamp Card",
-      "POINTS": "Points",
-      "TIERED": "Tiered VIP"
+      "STAMP": "Muhr kartasi",
+      "POINTS": "Ballar",
+      "TIERED": "Bosqichli VIP"
     },
     "status": {
-      "DRAFT": "Draft",
-      "PUBLISHED": "Published",
-      "PAUSED": "Paused"
+      "DRAFT": "Qoralama",
+      "PUBLISHED": "Nashr etilgan",
+      "PAUSED": "To'xtatilgan"
     },
     "newPage": {
-      "title": "Create New Program",
-      "name": "Program Name",
-      "namePlaceholder": "e.g. Summer Stamp Card",
-      "type": "Program Type",
-      "typeDescription": "Choose how customers earn rewards",
-      "create": "Create Program"
+      "title": "Yangi dastur yaratish",
+      "name": "Dastur nomi",
+      "namePlaceholder": "masalan, Yozgi muhr kartasi",
+      "type": "Dastur turi",
+      "typeDescription": "Mijozlar qanday mukofot olishini tanlang",
+      "create": "Dastur yaratish"
     },
     "detail": {
-      "enrolled": "enrolled",
-      "transactions": "transactions",
-      "programId": "Program ID",
-      "type": "Type",
-      "status": "Status",
-      "members": "Members",
-      "qrTitle": "QR Code for Joining",
-      "qrDesc": "Scan this QR code to join the loyalty program",
-      "apiTitle": "API Integration",
-      "apiDesc": "Use these endpoints to integrate with your POS",
-      "earnEndpoint": "Award Points",
-      "redeemEndpoint": "Redeem Points",
-      "balanceEndpoint": "Check Balance"
+      "enrolled": "ro'yxatdan o'tgan",
+      "transactions": "tranzaksiyalar",
+      "programId": "Dastur ID",
+      "type": "Tur",
+      "status": "Holat",
+      "members": "A'zolar",
+      "qrTitle": "Qo'shilish uchun QR kod",
+      "qrDesc": "Sadoyat dasturiga qo'shilish uchun ushbu QR kodni skanerlang",
+      "apiTitle": "API integratsiyasi",
+      "apiDesc": "POS tizimingiz bilan integratsiya qilish uchun ushbu tugmalardan foydalaning",
+      "earnEndpoint": "Ball berish",
+      "redeemEndpoint": "Ballarni evazga almashtirish",
+      "balanceEndpoint": "Balansni tekshirish"
     }
   },
   "customers": {
-    "title": "Customers",
-    "empty": "No customers yet. They'll appear here once they join your programs.",
-    "search": "Search by name or email...",
+    "title": "Mijozlar",
+    "empty": "Hali mijozlar yo'q. Dasturlaringizga qo'shilganda ular shu yerda paydo bo'ladi.",
+    "search": "Nomi yoki elektron pochta bo'yicha qidirish...",
     "columns": {
-      "email": "Email",
-      "name": "Name",
-      "joined": "Joined",
-      "balance": "Balance"
+      "email": "Elektron pochta",
+      "name": "Nomi",
+      "joined": "Qo'shilgan",
+      "balance": "Balans"
     },
     "detail": {
-      "title": "Customer Details",
-      "email": "Email",
-      "joined": "Joined",
-      "totalCustomers": "Total Customers",
-      "programsEnrolled": "Programs Enrolled",
-      "totalBalance": "Total Balance",
-      "loyaltyCards": "Loyalty Cards",
-      "noCards": "No loyalty cards yet.",
-      "transactions": "Transactions",
-      "noTransactions": "No transactions yet."
+      "title": "Mijoz tafsilotlari",
+      "email": "Elektron pochta",
+      "joined": "Qo'shilgan",
+      "totalCustomers": "Jami mijozlar",
+      "programsEnrolled": "Qo'shilgan dasturlar",
+      "totalBalance": "Jami balans",
+      "loyaltyCards": "Sadoyat kartalari",
+      "noCards": "Hali sadoyat kartalari yo'q.",
+      "transactions": "Tranzaksiyalar",
+      "noTransactions": "Hali tranzaksiyalar yo'q."
     }
   },
   "rewards": {
-    "title": "Rewards Catalog",
-    "newReward": "New Reward",
-    "empty": "No rewards yet. Create rewards your customers can redeem.",
+    "title": "Mukofotlar katalogi",
+    "newReward": "Yangi mukofot",
+    "empty": "Hali mukofotlar yo'q. Mijozlaringiz evazga almashtira oladigan mukofotlar yarating.",
     "types": {
-      "COUPON": "Coupon",
-      "FREE_PRODUCT": "Free Product",
-      "FREE_SHIPPING": "Free Shipping",
-      "EXPERIENTIAL": "Experiential Access",
-      "CHARITY_DONATION": "Charity Donation",
-      "STORE_CREDIT": "Store Credit"
+      "COUPON": "Kupon",
+      "FREE_PRODUCT": "Bepul mahsulot",
+      "FREE_SHIPPING": "Bepul yetkazib berish",
+      "EXPERIENTIAL": "Tajriba kirish",
+      "CHARITY_DONATION": "Xayriya hissasi",
+      "STORE_CREDIT": "Do'kon krediti"
     },
     "form": {
-      "title": "Create Reward",
-      "name": "Reward Name",
-      "namePlaceholder": "e.g. Free Latte",
-      "description": "Description",
-      "descriptionPlaceholder": "What the customer gets",
-      "type": "Reward Type",
-      "cost": "Cost (points)",
+      "title": "Mukofot yaratish",
+      "name": "Mukofot nomi",
+      "namePlaceholder": "masalan, Bepul Latte",
+      "description": "Tavsif",
+      "descriptionPlaceholder": "Mijoz nima oladi",
+      "type": "Mukofot turi",
+      "cost": "Narxi (ballar)",
       "costPlaceholder": "100",
-      "stock": "Stock (optional)",
-      "stockPlaceholder": "Leave empty for unlimited",
-      "charityName": "Charity Name",
-      "charityUrl": "Charity URL"
+      "stock": "Zaxira (ixtiyoriy)",
+      "stockPlaceholder": "Cheksiz uchun bo'sh qoldiring",
+      "charityName": "Xayriya nomi",
+      "charityUrl": "Xayriya URL"
     }
   },
   "challenges": {
-    "title": "Challenges & Milestones",
-    "newChallenge": "New Challenge",
-    "empty": "No challenges yet. Create challenges to gamify your loyalty program.",
+    "title": "Musobaqalar va yutuqlar",
+    "newChallenge": "Yangi musobaqa",
+    "empty": "Hali musobaqalar yo'q. Sadoyat dasturingizni o'yinlashtirish uchun musobaqalar yarating.",
     "types": {
-      "VISIT_COUNT": "Visit Count",
-      "SPEND_AMOUNT": "Spend Amount",
-      "STREAK": "Streak",
-      "REFERRAL_COUNT": "Referral Count",
-      "BIRTHDAY": "Birthday",
-      "CUSTOM": "Custom"
+      "VISIT_COUNT": "Tashriflar soni",
+      "SPEND_AMOUNT": "Sarflangan miqdor",
+      "STREAK": " ketma-ketlik",
+      "REFERRAL_COUNT": "Tavsiyalar soni",
+      "BIRTHDAY": "Tug'ilgan kun",
+      "CUSTOM": "Maxsus"
     },
-    "progress": "{completed} completed",
+    "progress": "{completed} bajarildi",
     "form": {
-      "title": "Create Challenge",
-      "name": "Challenge Name",
-      "namePlaceholder": "e.g. Visit 5 Times",
-      "description": "Description",
-      "descriptionPlaceholder": "What customers need to do",
-      "type": "Challenge Type",
-      "target": "Target Value",
+      "title": "Musobaqa yaratish",
+      "name": "Musobaqa nomi",
+      "namePlaceholder": "masalan, 5 marta tashrif buyurish",
+      "description": "Tavsif",
+      "descriptionPlaceholder": "Mijozlar nima qilishi kerak",
+      "type": "Musobaqa turi",
+      "target": "Maqsadli qiymat",
       "targetPlaceholder": "5",
-      "rewardPoints": "Reward Points",
+      "rewardPoints": "Mukofot ballari",
       "rewardPointsPlaceholder": "100",
-      "badgeName": "Badge Name (optional)",
-      "badgeNamePlaceholder": "e.g. Local Hero"
+      "badgeName": "Nishon nomi (ixtiyoriy)",
+      "badgeNamePlaceholder": "masalan, Mahalliy qahramon"
     }
   },
   "referrals": {
-    "title": "Referral System",
-    "empty": "No referrals yet.",
-    "yourCode": "Your Referral Code",
-    "copyCode": "Copy Code",
-    "stats": "Referral Stats",
-    "totalReferrals": "Total Referrals",
-    "completed": "Completed",
-    "pending": "Pending",
-    "bonusPoints": "Bonus Points Awarded",
-    "recentReferrals": "Recent Referrals"
+    "title": "Tavsiya tizimi",
+    "empty": "Hali tavsiyalar yo'q.",
+    "yourCode": "Sizning tavsiya kodingiz",
+    "copyCode": "Kodni nusxalash",
+    "stats": "Tavsiya statistikasi",
+    "totalReferrals": "Jami tavsiyalar",
+    "completed": "Bajarilgan",
+    "pending": "Kutilayotgan",
+    "bonusPoints": "Berilgan bonus ballar",
+    "recentReferrals": "So'nggi tavsiyalar"
   },
   "oneStamps": {
-    "title": "OneStamps",
-    "subtitle": "Single-use QR codes for one-time rewards",
-    "generate": "Generate OneStamps",
-    "quantity": "Number to generate",
-    "pointsPerStamp": "Points per stamp",
-    "empty": "No OneStamps yet.",
-    "code": "Code",
-    "points": "Points",
-    "status": "Status",
-    "used": "Used",
-    "available": "Available"
+    "title": "Bir martalik muhrlar",
+    "subtitle": "Bir martalik mukofotlar uchun bir martalik QR kodlar",
+    "generate": "Bir martalik muhrlar yaratish",
+    "quantity": "Yaratiladigan soni",
+    "pointsPerStamp": "Har bir muhr uchun ballar",
+    "empty": "Hali bir martalik muhrlar yo'q.",
+    "code": "Kod",
+    "points": "Ballar",
+    "status": "Holat",
+    "used": "Ishlatilgan",
+    "available": "Mavjud"
   },
   "scratchGames": {
-    "title": "Scratch & Win Games",
-    "newGame": "New Scratch Game",
-    "empty": "No scratch games yet.",
-    "winChance": "Win chance: 30%",
-    "prizeRange": "Prizes: 5-50 points",
-    "createFor": "Create for customer",
-    "customerEmail": "Customer Email",
-    "customerEmailPlaceholder": "customer@example.com"
+    "title": "Kazima va yutish o'yinlari",
+    "newGame": "Yangi kazima o'yini",
+    "empty": "Hali kazima o'yinlari yo'q.",
+    "winChance": "Yutish ehtimoli: 30%",
+    "prizeRange": "Mukofotlar: 5-50 ball",
+    "createFor": "Mijoz uchun yaratish",
+    "customerEmail": "Mijoz elektron pochtasi",
+    "customerEmailPlaceholder": "mijoz@namuna.com"
   },
   "analytics": {
-    "title": "Analytics",
-    "customerLifetimeValue": "Customer Lifetime Value",
-    "clvDescription": "Average revenue per customer over their lifetime",
-    "churnRisk": "Churn Risk",
-    "churnDescription": "Customers at risk of not returning",
-    "programROI": "Program ROI",
-    "roiDescription": "Return on investment for your loyalty program",
-    "revenueLift": "Revenue Lift",
-    "revenueDescription": "Additional revenue from loyalty members",
-    "topCustomers": "Top Customers",
-    "noData": "No analytics data yet. Data will appear as customers interact with your programs."
+    "title": "Analitika",
+    "customerLifetimeValue": "Mijoz umr bo'yi qiymati",
+    "clvDescription": "Mijozning umri davomida o'rtacha daromadi",
+    "churnRisk": "Mijozni yo'qotish xavfi",
+    "churnDescription": "Qaytib kelish xavfi bo'lgan mijozlar",
+    "programROI": "Dastur ROI",
+    "roiDescription": "Sadoyat dasturingiz uchun investitsiya daromadi",
+    "revenueLift": "Daromad o'sishi",
+    "revenueDescription": "Sadoyat a'zolaridan qo'shimcha daromad",
+    "topCustomers": "Eng yaxshi mijozlar",
+    "noData": "Hali analitika ma'lumotlari yo'q. Mijozlar dasturlaringiz bilan o'zaro ta'sir qilganda ma'lumotlar paydo bo'ladi."
   },
   "apiKeys": {
-    "title": "API & Widget",
-    "apiKeysSection": "API Keys",
-    "newKey": "Generate New Key",
-    "keyName": "Key Name",
-    "keyNamePlaceholder": "e.g. Production API Key",
-    "existingKeys": "Existing Keys",
-    "noKeys": "No API keys yet.",
-    "key": "Key",
-    "createdAt": "Created",
-    "widgetSection": "Embeddable Widget",
-    "widgetDesc": "Drop this into your site's HTML. It renders a join form and balance lookup.",
-    "copySnippet": "Copy Snippet"
+    "title": "API va Vidget",
+    "apiKeysSection": "API kalitlari",
+    "newKey": "Yangi kalit yaratish",
+    "keyName": "Kalit nomi",
+    "keyNamePlaceholder": "masalan, Ishlab chiqarish API kaliti",
+    "existingKeys": "Mavjud kalitlar",
+    "noKeys": "Hali API kalitlari yo'q.",
+    "key": "Kalit",
+    "createdAt": "Yaratilgan",
+    "widgetSection": "Joylashtiriladigan vidget",
+    "widgetDesc": "Buni veb-saytingizning HTMLiga qo'shing. U qo'shilish shakli va balansni tekshirishni ko'rsatadi.",
+    "copySnippet": "Kodni nusxalash"
   },
   "support": {
-    "title": "Contact Support",
-    "subtitle": "Have a question, issue, or feature request? We'd love to hear from you.",
+    "title": "Qo'llab-quvvatlash bilan bog'lanish",
+    "subtitle": "Savol, muammo yoki funksiya so'rovi bormi? Sizdan eshitishni xohlaymiz.",
     "form": {
-      "name": "Name",
-      "namePlaceholder": "Your name",
-      "email": "Email",
-      "emailPlaceholder": "you@example.com",
-      "category": "Category",
+      "name": "Nomi",
+      "namePlaceholder": "Ismingiz",
+      "email": "Elektron pochta",
+      "emailPlaceholder": "siz@namuna.com",
+      "category": "Kategoriya",
       "categories": {
-        "general": "General Question",
-        "bug": "Bug Report",
-        "feature": "Feature Request",
-        "billing": "Billing"
+        "general": "Umumiy savol",
+        "bug": "Xato hisoboti",
+        "feature": "Funksiya so'rovi",
+        "billing": "To'lov"
       },
-      "subject": "Subject",
-      "subjectPlaceholder": "What is this about?",
-      "message": "Message",
-      "messagePlaceholder": "Tell us more...",
-      "submit": "Send Message",
-      "sending": "Sending..."
+      "subject": "Mavzu",
+      "subjectPlaceholder": "Bu nima haqida?",
+      "message": "Xabar",
+      "messagePlaceholder": "Batafsil aytib bering...",
+      "submit": "Xabar yuborish",
+      "sending": "Yuborilmoqda..."
     },
-    "success": "Message sent! We'll get back to you within 24 hours.",
-    "otherWays": "Other Ways to Reach Us"
+    "success": "Xabar yuborildi! 24 soat ichida sizga javob beramiz.",
+    "otherWays": "Biz bilan bog'lanishning bqa usullari"
   },
   "admin": {
-    "title": "Admin Panel",
-    "overview": "Platform Overview",
-    "subtitle": "LoyaltyForge platform health and metrics.",
-    "organizations": "Organizations",
-    "users": "Users",
-    "programs": "Programs",
-    "supportTickets": "Support Tickets",
-    "recentOrgs": "Recent Organizations",
-    "totalOrgs": "total organizations on the platform",
-    "totalUsers": "total users across all organizations",
-    "totalPrograms": "total programs across all organizations",
-    "noOrgs": "No organizations yet.",
-    "noUsers": "No users found.",
-    "noPrograms": "No programs found.",
-    "noTickets": "No tickets found.",
+    "title": "Admin panel",
+    "overview": "Platforma holati",
+    "subtitle": "LoyaltyForge platformasi salomatligi va ko'rsatkichlari.",
+    "organizations": "Tashkilotlar",
+    "users": "Foydalanuvchilar",
+    "programs": "Dasturlar",
+    "supportTickets": "Qo'llab-quvvatlash maktublari",
+    "recentOrgs": "So'nggi tashkilotlar",
+    "totalOrgs": "platformadagi jami tashkilotlar",
+    "totalUsers": "barcha tashkilotlardagi jami foydalanuvchilar",
+    "totalPrograms": "barcha tashkilotlardagi jami dasturlar",
+    "noOrgs": "Hali tashkilotlar yo'q.",
+    "noUsers": "Foydalanuvchilar topilmadi.",
+    "noPrograms": "Dasturlar topilmadi.",
+    "noTickets": "Maktublar topilmadi.",
     "ticketFilters": {
-      "all": "All",
-      "open": "Open",
-      "inProgress": "In Progress",
-      "resolved": "Resolved"
+      "all": "Hammasi",
+      "open": "Ochiq",
+      "inProgress": "Jarayonda",
+      "resolved": "Hal qilingan"
     },
     "ticketActions": {
-      "start": "Start",
-      "resolve": "Resolve",
-      "reopen": "Reopen"
+      "start": "Boshlash",
+      "resolve": "Hal qilish",
+      "reopen": "Qayta ochish"
     }
   },
   "settings": {
-    "apiKeys": "API Keys"
+    "apiKeys": "API kalitlari"
   }
 }

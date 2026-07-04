@@ -1,41 +1,41 @@
 {
   "common": {
     "appName": "LoyaltyForge",
-    "loading": "Loading...",
-    "error": "Error",
-    "success": "Success",
-    "save": "Save",
-    "cancel": "Cancel",
-    "delete": "Delete",
-    "edit": "Edit",
-    "create": "Create",
-    "search": "Search",
-    "back": "Back",
-    "next": "Next",
-    "confirm": "Confirm",
-    "yes": "Yes",
-    "no": "No",
-    "none": "None",
-    "all": "All",
-    "of": "of",
-    "total": "Total",
-    "status": "Status",
-    "actions": "Actions",
-    "details": "Details",
-    "close": "Close",
-    "submit": "Submit",
-    "required": "Required",
-    "optional": "Optional",
-    "name": "Name",
-    "email": "Email",
-    "password": "Password",
-    "createdAt": "Created",
-    "members": "Members",
-    "customers": "Customers",
-    "programs": "Programs",
-    "transactions": "Transactions",
-    "points": "Points",
-    "stamps": "Stamps"
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "success": "Успешно",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "create": "Создать",
+    "search": "Поиск",
+    "back": "Назад",
+    "next": "Далее",
+    "confirm": "Подтвердить",
+    "yes": "Да",
+    "no": "Нет",
+    "none": "Нет",
+    "all": "Все",
+    "of": "из",
+    "total": "Итого",
+    "status": "Статус",
+    "actions": "Действия",
+    "details": "Подробности",
+    "close": "Закрыть",
+    "submit": "Отправить",
+    "required": "Обязательно",
+    "optional": "Необязательно",
+    "name": "Имя",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "createdAt": "Дата создания",
+    "members": "Участники",
+    "customers": "Клиенты",
+    "programs": "Программы",
+    "transactions": "Транзакции",
+    "points": "Баллы",
+    "stamps": "Штампы"
   },
   "nav": {
     "dashboard": "Панель управления",
@@ -45,19 +45,19 @@
     "challenges": "Вызовы",
     "referrals": "Рефералы",
     "oneStamps": "Одноразовые штампы",
-    "scratchGames": "Игры Скретч",
+    "scratchGames": "Скретч-игры",
     "analytics": "Аналитика",
-    "apiKeys": "API и Виджет",
+    "apiKeys": "API и виджет",
     "settings": "Настройки",
-    "admin": "Панель админа",
+    "admin": "Панель администратора",
     "signOut": "Выйти",
-    "backToDashboard": "Вернуться к панели"
+    "backToDashboard": "Вернуться к панели управления"
   },
   "landing": {
     "nav": {
       "features": "Возможности",
       "howItWorks": "Как это работает",
-      "pricing": "Цены",
+      "pricing": "Тарифы",
       "stories": "Истории",
       "signIn": "Войти",
       "getStarted": "Начать бесплатно"
@@ -68,7 +68,7 @@
       "titleHighlight": "Постоянных гостей",
       "subtitle": "Платформа лояльности для владельцев кафе, которые хотят расти без догадок. Создайте карты штампов, бонусные программы или VIP-уровни за минуты — не месяцы.",
       "cta1": "Создайте программу бесплатно",
-      "cta2": "Посмотрите как работает",
+      "cta2": "Посмотрите, как это работает",
       "stat1Value": "15-30%",
       "stat1Label": "больше повторных визитов",
       "stat2Value": "3x",
@@ -80,396 +80,396 @@
       "title": "Нам доверяют кафе по всему миру"
     },
     "howItWorks": {
-      "title": "How It Works",
-      "subtitle": "Simple by design",
+      "title": "Как это работает",
+      "subtitle": "Просто по дизайну",
       "step1": {
-        "title": "Create Your Program",
-        "desc": "Choose from stamp cards, points programs, or tiered VIP memberships. Set your rules, name your rewards, and preview everything before you publish."
+        "title": "Создайте свою программу",
+        "desc": "Выберите карты штампов, бонусные программы или поуровневую VIP-систему. Настройте правила, назовите награды и просмотрите всё перед публикацией."
       },
       "step2": {
-        "title": "Customers Join",
-        "desc": "Share a unique QR code in-store, embed a widget on your website, or connect via API. Signing up takes seconds — no app download required."
+        "title": "Клиенты присоединяются",
+        "desc": "Разместите уникальный QR-код в кафе, встройте виджет на сайт или подключитесь через API. Регистрация занимает секунды — скачивать приложение не нужно."
       },
       "step3": {
-        "title": "Watch Loyalty Grow",
-        "desc": "Track visits, redemptions, and lifetime value in real time. Analytics show what rewards and challenges drive the most engagement."
+        "title": "Наблюдайте за ростом лояльности",
+        "desc": "Отслеживайте визиты, списания и пожизненную стоимость в реальном времени. Аналитика показывает, какие награды и вызовы вызывают наибольшую вовлечённость."
       }
     },
     "features": {
-      "title": "Everything You Need",
-      "subtitle": "Whether you run a single shop or a chain, LoyaltyForge gives you the tools to build a program that fits your brand perfectly.",
+      "title": "Всё, что вам нужно",
+      "subtitle": "Вы управляете одним кафе или сетью — LoyaltyForge даёт вам инструменты для создания программы, идеально подходящей вашему бренду.",
       "stampCards": {
-        "title": "Stamp Cards",
-        "desc": "The classic punch card, digitized. Customers collect stamps with every purchase and redeem rewards at thresholds you set."
+        "title": "Карты штампов",
+        "desc": "Классическая карта для.stamp-ов, оцифрованная. Клиенты собирают штампы с каждой покупкой и получают награды при достижении установленных вами порогов."
       },
       "points": {
-        "title": "Points Economy",
-        "desc": "Earn points per dollar spent. Let customers redeem for discounts, freebies, or exclusive items — fully configurable."
+        "title": "Балльная система",
+        "desc": "Начисляйте баллы за каждый потраченный рубль. Позвольте клиентам обменивать их на скидки, бесплатные товары или эксклюзивные предложения — полностью настраиваемая система."
       },
       "tiered": {
-        "title": "Tiered VIP",
-        "desc": "Bronze, Silver, Gold — reward your biggest spenders with escalating perks. Tiers unlock automatically based on activity."
+        "title": "Поуровневый VIP",
+        "desc": "Бронза, Серебро, Золото — вознаграждайте самых активных покупателей растущими привилегиями. Уровни разблокируются автоматически на основе активности."
       },
       "challenges": {
-        "title": "Challenges & Milestones",
-        "desc": "Gamify the experience. Set challenges like \"Visit 5 days in a row\" and unlock milestone badges that keep customers engaged."
+        "title": "Вызовы и вехи",
+        "desc": "Превратитеexpérience в игру. Устанавливайте вызовы типа «Посетите 5 дней подряд» и разблокируйте значки вех, которые удерживают клиентов."
       },
       "rewards": {
-        "title": "Rewards Catalog",
-        "desc": "Coupons, free items, experiential rewards, or even charity donations. Build a catalog your customers actually want."
+        "title": "Каталог наград",
+        "desc": "Купоны, бесплатные товары, впечатления или даже благотворительные пожертвования. Создайте каталог, который клиенты действительно хотят."
       },
       "scratch": {
-        "title": "Scratch & Win",
-        "desc": "Interactive digital scratch cards after every purchase. Instant gratification that drives repeat visits and social sharing."
+        "title": "Скретч и выигрыш",
+        "desc": "Интерактивные цифровые скретч-карты после каждой покупки. Мгновенное удовлетворение, которое стимулирует повторные визиты и делиться в соцсетях."
       }
     },
     "stats": {
-      "title": "Loyalty That Pays Off",
-      "subtitle": "Proven results",
-      "stat1Label": "more repeat visits",
-      "stat2Label": "purchase frequency",
-      "stat3Label": "higher CLV",
-      "roiLabel": "return on investment"
+      "title": "Лояльность, которая окупается",
+      "subtitle": "Доказанные результаты",
+      "stat1Label": "больше повторных визитов",
+      "stat2Label": "частота покупок",
+      "stat3Label": "выше CLV",
+      "roiLabel": "окупаемость инвестиций"
     },
     "integrations": {
-      "title": "Connects to Your Existing Setup"
+      "title": "Подключается к вашей текущей системе"
     },
     "pricing": {
-      "title": "Start Free, Scale When Ready",
-      "subtitle": "No hidden fees. No contracts. Upgrade or downgrade anytime.",
+      "title": "Начните бесплатно, масштабируйтесь, когда будете готовы",
+      "subtitle": "Без скрытых платежей. Без контрактов. Обновляйте или откатывайте план в любое время.",
       "starter": {
-        "name": "Starter",
-        "desc": "Perfect for testing the waters"
+        "name": "Стартовый",
+        "desc": "Идеально для первого тестирования"
       },
       "growth": {
-        "name": "Growth",
-        "desc": "For cafes ready to scale loyalty",
-        "popular": "Most Popular"
+        "name": "Растущий",
+        "desc": "Для кафе, готовых масштабировать лояльность",
+        "popular": "Самый популярный"
       },
       "scale": {
-        "name": "Scale",
-        "desc": "For multi-location operations"
+        "name": "Масштабный",
+        "desc": "Для сетевых операций"
       },
-      "cta": "Start Free",
-      "ctaGrowing": "Start Growing",
-      "ctaContact": "Contact Sales"
+      "cta": "Начать бесплатно",
+      "ctaGrowing": "Начать расти",
+      "ctaContact": "Связаться с отделом продаж"
     },
     "testimonials": {
-      "title": "What Our Customers Say",
-      "subtitle": "Real cafe owners"
+      "title": "Что говорят наши клиенты",
+      "subtitle": "Настоящие владельцы кафе"
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "subtitle": "Common questions",
+      "title": "Часто задаваемые вопросы",
+      "subtitle": "Распространённые вопросы",
       "faq1": {
-        "q": "How does LoyaltyForge work?",
-        "a": "LoyaltyForge lets you create a digital loyalty program in minutes. Choose a template (stamp card, points, or tiered), set your rules, and share it with customers via QR code, website widget, or API. Customers earn rewards automatically with every purchase."
+        "q": "Как работает LoyaltyForge?",
+        "a": "LoyaltyForge позволяет создать цифровую программу лояльности за минуты. Выберите шаблон (карта штампов, баллы или поуровневая система), настройте правила и поделитесь с клиентами через QR-код, виджет на сайте или API. Клиенты автоматически получают награды с каждой покупкой."
       },
       "faq2": {
-        "q": "How much does it cost?",
-        "a": "We offer a free Starter plan for up to 100 members with no time limit. Growth ($29/mo) unlocks advanced features for growing cafes, and Scale ($99/mo) supports multi-location operations with unlimited members."
+        "q": "Сколько это стоит?",
+        "a": "Мы предлагаем бесплатный стартовый план до 100 участников без ограничения по времени. План «Растущий» ($29/мес) открывает расширенные функции для растущих кафе, а «Масштабный» ($99/мес) поддерживает сетевые операции с неограниченным числом участников."
       },
       "faq3": {
-        "q": "How long does setup take?",
-        "a": "Most cafe owners have their program live within 15 minutes. You pick a template, customize the name and rewards, generate your QR code, and you're ready to go. No developer needed."
+        "q": "Сколько времени занимает настройка?",
+        "a": "Большинство владельцев кафе запускают программу за 15 минут. Выберите шаблон, настройте название и награды, сгенерируйте QR-код — и всё готово. Разработчик не нужен."
       },
       "faq4": {
-        "q": "Does it integrate with my POS?",
-        "a": "LoyaltyForge provides a REST API and embeddable widget that work with any POS or website. You can enroll customers, award points, and check balances from any system with a single API key. Direct integrations with Shopify, Square, and Lightspeed are on our roadmap."
+        "q": "Интегрируется ли это с моей кассой?",
+        "a": "LoyaltyForge предоставляет REST API и встраиваемый виджет, которые работают с любой кассой или сайтом. Вы можете регистрировать клиентов, начислять баллы и проверять баланс из любой системы с помощью одного API-ключа. Прямые интеграции с Shopify, Square и Lightspeed в нашей дорожной карте."
       },
       "faq5": {
-        "q": "Is there an API?",
-        "a": "Absolutely. Our REST API lets you enroll customers, award points, process redemptions, and check balances from any POS, website, or mobile app. Full documentation is included with every Growth plan and above."
+        "q": "Есть ли API?",
+        "a": "Конечно. Наш REST API позволяет регистрировать клиентов, начислять баллы, обрабатывать списания и проверять балансы из любой кассы, сайта или мобильного приложения. Полная документация включается в каждый план «Растущий» и выше."
       },
       "faq6": {
-        "q": "What kind of support do you offer?",
-        "a": "All plans include access to our contact form for help with setup and questions. The Growth plan includes full API documentation. We respond to all inquiries within 24 hours."
+        "q": "Какую поддержку вы предоставляете?",
+        "a": "Все планы включают доступ к форме обратной связи для помощи с настройкой и вопросами. План «Растущий» включает полную документацию по API. Мы отвечаем на все запросы в течение 24 часов."
       }
     },
     "cta": {
-      "title": "Ready to Build Customer Loyalty?",
-      "subtitle": "Join cafe owners who are turning one-time buyers into lifelong regulars.",
-      "button": "Get Started Free",
-      "note": "Free to start. No credit card required."
+      "title": "Готовы построить лояльность клиентов?",
+      "subtitle": "Присоединяйтесь к владельцам кафе, которые превращают разовых покупателей в постоянных клиентов.",
+      "button": "Начать бесплатно",
+      "note": "Бесплатно для начала. Без банковской карты."
     },
     "footer": {
-      "product": "Product",
-      "company": "Company",
-      "legal": "Legal",
-      "contactSupport": "Contact Support",
-      "getStarted": "Get Started",
-      "signIn": "Sign In",
-      "features": "Features",
-      "pricing": "Pricing",
-      "apiDocs": "API & Widget",
-      "copyright": "All rights reserved. Built for cafe owners, not enterprises."
+      "product": "Продукт",
+      "company": "Компания",
+      "legal": "Правовая информация",
+      "contactSupport": "Связаться с поддержкой",
+      "getStarted": "Начать",
+      "signIn": "Войти",
+      "features": "Возможности",
+      "pricing": "Тарифы",
+      "apiDocs": "API и виджет",
+      "copyright": "Все права защищены. Создано для владельцев кафе, а не для корпораций."
     }
   },
   "auth": {
     "login": {
-      "title": "Welcome back",
-      "subtitle": "Sign in to your account",
+      "title": "С возвращением",
+      "subtitle": "Войдите в свой аккаунт",
       "emailPlaceholder": "you@example.com",
-      "passwordPlaceholder": "Enter your password",
-      "submit": "Sign In",
-      "noAccount": "Don't have an account?",
-      "createOne": "Create one"
+      "passwordPlaceholder": "Введите пароль",
+      "submit": "Войти",
+      "noAccount": "Нет аккаунта?",
+      "createOne": "Создать"
     },
     "register": {
-      "title": "Create your account",
-      "subtitle": "Start building loyalty in minutes",
-      "cafeName": "Cafe / Business Name",
-      "cafeNamePlaceholder": "e.g. Sunrise Coffee",
-      "slug": "URL slug",
+      "title": "Создайте аккаунт",
+      "subtitle": "Начните строить лояльность за минуты",
+      "cafeName": "Название кафе / бизнеса",
+      "cafeNamePlaceholder": "например, Sunrise Coffee",
+      "slug": "URL-адрес",
       "slugPlaceholder": "sunrise-coffee",
       "emailPlaceholder": "you@example.com",
-      "passwordPlaceholder": "Create a password",
-      "submit": "Create Account",
-      "hasAccount": "Already have an account?",
-      "signIn": "Sign in"
+      "passwordPlaceholder": "Придумайте пароль",
+      "submit": "Создать аккаунт",
+      "hasAccount": "Уже есть аккаунт?",
+      "signIn": "Войти"
     }
   },
   "dashboard": {
-    "welcome": "Welcome back",
-    "overview": "Here's what's happening with your loyalty programs.",
-    "totalMembers": "Total Members",
-    "activePrograms": "Active Programs",
-    "totalPointsIssued": "Total Points Issued",
-    "recentActivity": "Recent Activity",
-    "noActivity": "No recent activity"
+    "welcome": "С возвращением",
+    "overview": "Вот что происходит с вашими программами лояльности.",
+    "totalMembers": "Всего участников",
+    "activePrograms": "Активные программы",
+    "totalPointsIssued": "Всего начислено баллов",
+    "recentActivity": "Последняя активность",
+    "noActivity": "Нет недавней активности"
   },
   "programs": {
-    "title": "Loyalty Programs",
-    "new": "New Program",
-    "empty": "No programs yet. Create your first loyalty program to get started.",
+    "title": "Программы лояльности",
+    "new": "Новая программа",
+    "empty": "Пока нет программ. Создайте первую программу лояльности, чтобы начать.",
     "types": {
-      "STAMP": "Stamp Card",
-      "POINTS": "Points",
-      "TIERED": "Tiered VIP"
+      "STAMP": "Карта штампов",
+      "POINTS": "Баллы",
+      "TIERED": "Поуровневый VIP"
     },
     "status": {
-      "DRAFT": "Draft",
-      "PUBLISHED": "Published",
-      "PAUSED": "Paused"
+      "DRAFT": "Черновик",
+      "PUBLISHED": "Опубликована",
+      "PAUSED": "Приостановлена"
     },
     "newPage": {
-      "title": "Create New Program",
-      "name": "Program Name",
-      "namePlaceholder": "e.g. Summer Stamp Card",
-      "type": "Program Type",
-      "typeDescription": "Choose how customers earn rewards",
-      "create": "Create Program"
+      "title": "Создать новую программу",
+      "name": "Название программы",
+      "namePlaceholder": "например, Летняя карта штампов",
+      "type": "Тип программы",
+      "typeDescription": "Выберите, как клиенты будут зарабатывать награды",
+      "create": "Создать программу"
     },
     "detail": {
-      "enrolled": "enrolled",
-      "transactions": "transactions",
-      "programId": "Program ID",
-      "type": "Type",
-      "status": "Status",
-      "members": "Members",
-      "qrTitle": "QR Code for Joining",
-      "qrDesc": "Scan this QR code to join the loyalty program",
-      "apiTitle": "API Integration",
-      "apiDesc": "Use these endpoints to integrate with your POS",
-      "earnEndpoint": "Award Points",
-      "redeemEndpoint": "Redeem Points",
-      "balanceEndpoint": "Check Balance"
+      "enrolled": "записано",
+      "transactions": "транзакций",
+      "programId": "ID программы",
+      "type": "Тип",
+      "status": "Статус",
+      "members": "Участники",
+      "qrTitle": "QR-код для присоединения",
+      "qrDesc": "Отсканируйте этот QR-код, чтобы присоединиться к программе лояльности",
+      "apiTitle": "Интеграция API",
+      "apiDesc": "Используйте эти эндпоинты для интеграции с вашей кассой",
+      "earnEndpoint": "Начисление баллов",
+      "redeemEndpoint": "Списание баллов",
+      "balanceEndpoint": "Проверка баланса"
     }
   },
   "customers": {
-    "title": "Customers",
-    "empty": "No customers yet. They'll appear here once they join your programs.",
-    "search": "Search by name or email...",
+    "title": "Клиенты",
+    "empty": "Пока нет клиентов. Они появятся здесь, когда присоединятся к вашим программам.",
+    "search": "Поиск по имени или электронной почте...",
     "columns": {
-      "email": "Email",
-      "name": "Name",
-      "joined": "Joined",
-      "balance": "Balance"
+      "email": "Электронная почта",
+      "name": "Имя",
+      "joined": "Дата регистрации",
+      "balance": "Баланс"
     },
     "detail": {
-      "title": "Customer Details",
-      "email": "Email",
-      "joined": "Joined",
-      "totalCustomers": "Total Customers",
-      "programsEnrolled": "Programs Enrolled",
-      "totalBalance": "Total Balance",
-      "loyaltyCards": "Loyalty Cards",
-      "noCards": "No loyalty cards yet.",
-      "transactions": "Transactions",
-      "noTransactions": "No transactions yet."
+      "title": "Детали клиента",
+      "email": "Электронная почта",
+      "joined": "Дата регистрации",
+      "totalCustomers": "Всего клиентов",
+      "programsEnrolled": "Записано в программы",
+      "totalBalance": "Общий баланс",
+      "loyaltyCards": "Карты лояльности",
+      "noCards": "Пока нет карт лояльности.",
+      "transactions": "Транзакции",
+      "noTransactions": "Пока нет транзакций."
     }
   },
   "rewards": {
-    "title": "Rewards Catalog",
-    "newReward": "New Reward",
-    "empty": "No rewards yet. Create rewards your customers can redeem.",
+    "title": "Каталог наград",
+    "newReward": "Новая награда",
+    "empty": "Пока нет наград. Создайте награды, которые клиенты смогут получить.",
     "types": {
-      "COUPON": "Coupon",
-      "FREE_PRODUCT": "Free Product",
-      "FREE_SHIPPING": "Free Shipping",
-      "EXPERIENTIAL": "Experiential Access",
-      "CHARITY_DONATION": "Charity Donation",
-      "STORE_CREDIT": "Store Credit"
+      "COUPON": "Купон",
+      "FREE_PRODUCT": "Бесплатный товар",
+      "FREE_SHIPPING": "Бесплатная доставка",
+      "EXPERIENTIAL": "Доступ к впечатлениям",
+      "CHARITY_DONATION": "Благотворительное пожертвование",
+      "STORE_CREDIT": "Баланс магазина"
     },
     "form": {
-      "title": "Create Reward",
-      "name": "Reward Name",
-      "namePlaceholder": "e.g. Free Latte",
-      "description": "Description",
-      "descriptionPlaceholder": "What the customer gets",
-      "type": "Reward Type",
-      "cost": "Cost (points)",
+      "title": "Создать награду",
+      "name": "Название награды",
+      "namePlaceholder": "например, Бесплатный латте",
+      "description": "Описание",
+      "descriptionPlaceholder": "Что получит клиент",
+      "type": "Тип награды",
+      "cost": "Стоимость (баллы)",
       "costPlaceholder": "100",
-      "stock": "Stock (optional)",
-      "stockPlaceholder": "Leave empty for unlimited",
-      "charityName": "Charity Name",
-      "charityUrl": "Charity URL"
+      "stock": "Запас (необязательно)",
+      "stockPlaceholder": "Оставьте пустым для неограниченного количества",
+      "charityName": "Название благотворительной организации",
+      "charityUrl": "URL благотворительной организации"
     }
   },
   "challenges": {
-    "title": "Challenges & Milestones",
-    "newChallenge": "New Challenge",
-    "empty": "No challenges yet. Create challenges to gamify your loyalty program.",
+    "title": "Вызовы и вехи",
+    "newChallenge": "Новый вызов",
+    "empty": "Пока нет вызовов. Создайте вызовы, чтобы сделать программу лояльности играбельной.",
     "types": {
-      "VISIT_COUNT": "Visit Count",
-      "SPEND_AMOUNT": "Spend Amount",
-      "STREAK": "Streak",
-      "REFERRAL_COUNT": "Referral Count",
-      "BIRTHDAY": "Birthday",
-      "CUSTOM": "Custom"
+      "VISIT_COUNT": "Количество визитов",
+      "SPEND_AMOUNT": "Сумма покупок",
+      "STREAK": "Серия",
+      "REFERRAL_COUNT": "Количество рефералов",
+      "BIRTHDAY": "День рождения",
+      "CUSTOM": "Свой"
     },
-    "progress": "{completed} completed",
+    "progress": "{completed} выполнено",
     "form": {
-      "title": "Create Challenge",
-      "name": "Challenge Name",
-      "namePlaceholder": "e.g. Visit 5 Times",
-      "description": "Description",
-      "descriptionPlaceholder": "What customers need to do",
-      "type": "Challenge Type",
-      "target": "Target Value",
+      "title": "Создать вызов",
+      "name": "Название вызова",
+      "namePlaceholder": "например, Посетите 5 раз",
+      "description": "Описание",
+      "descriptionPlaceholder": "Что нужно сделать клиентам",
+      "type": "Тип вызова",
+      "target": "Целевое значение",
       "targetPlaceholder": "5",
-      "rewardPoints": "Reward Points",
+      "rewardPoints": "Баллы за награду",
       "rewardPointsPlaceholder": "100",
-      "badgeName": "Badge Name (optional)",
-      "badgeNamePlaceholder": "e.g. Local Hero"
+      "badgeName": "Название значка (необязательно)",
+      "badgeNamePlaceholder": "например, Локальный герой"
     }
   },
   "referrals": {
-    "title": "Referral System",
-    "empty": "No referrals yet.",
-    "yourCode": "Your Referral Code",
-    "copyCode": "Copy Code",
-    "stats": "Referral Stats",
-    "totalReferrals": "Total Referrals",
-    "completed": "Completed",
-    "pending": "Pending",
-    "bonusPoints": "Bonus Points Awarded",
-    "recentReferrals": "Recent Referrals"
+    "title": "Система рефералов",
+    "empty": "Пока нет рефералов.",
+    "yourCode": "Ваш реферальный код",
+    "copyCode": "Скопировать код",
+    "stats": "Статистика рефералов",
+    "totalReferrals": "Всего рефералов",
+    "completed": "Завершено",
+    "pending": "В ожидании",
+    "bonusPoints": "Начислено бонусных баллов",
+    "recentReferrals": "Последние рефералы"
   },
   "oneStamps": {
-    "title": "OneStamps",
-    "subtitle": "Single-use QR codes for one-time rewards",
-    "generate": "Generate OneStamps",
-    "quantity": "Number to generate",
-    "pointsPerStamp": "Points per stamp",
-    "empty": "No OneStamps yet.",
-    "code": "Code",
-    "points": "Points",
-    "status": "Status",
-    "used": "Used",
-    "available": "Available"
+    "title": "Одноразовые штампы",
+    "subtitle": "Одноразовые QR-коды для одноразовых наград",
+    "generate": "Сгенерировать одноразовые штампы",
+    "quantity": "Количество для генерации",
+    "pointsPerStamp": "Баллов за штамп",
+    "empty": "Пока нет одноразовых штампов.",
+    "code": "Код",
+    "points": "Баллы",
+    "status": "Статус",
+    "used": "Использован",
+    "available": "Доступен"
   },
   "scratchGames": {
-    "title": "Scratch & Win Games",
-    "newGame": "New Scratch Game",
-    "empty": "No scratch games yet.",
-    "winChance": "Win chance: 30%",
-    "prizeRange": "Prizes: 5-50 points",
-    "createFor": "Create for customer",
-    "customerEmail": "Customer Email",
+    "title": "Скретч-игры",
+    "newGame": "Новая скретч-игра",
+    "empty": "Пока нет скретч-игр.",
+    "winChance": "Шанс выигрыша: 30%",
+    "prizeRange": "Призы: 5-50 баллов",
+    "createFor": "Создать для клиента",
+    "customerEmail": "Электронная почта клиента",
     "customerEmailPlaceholder": "customer@example.com"
   },
   "analytics": {
-    "title": "Analytics",
-    "customerLifetimeValue": "Customer Lifetime Value",
-    "clvDescription": "Average revenue per customer over their lifetime",
-    "churnRisk": "Churn Risk",
-    "churnDescription": "Customers at risk of not returning",
-    "programROI": "Program ROI",
-    "roiDescription": "Return on investment for your loyalty program",
-    "revenueLift": "Revenue Lift",
-    "revenueDescription": "Additional revenue from loyalty members",
-    "topCustomers": "Top Customers",
-    "noData": "No analytics data yet. Data will appear as customers interact with your programs."
+    "title": "Аналитика",
+    "customerLifetimeValue": "Пожизненная стоимость клиента",
+    "clvDescription": "Средняя выручка на клиента за весь период сотрудничества",
+    "churnRisk": "Риск оттока",
+    "churnDescription": "Клиенты, которые могут не вернуться",
+    "programROI": "ROI программы",
+    "roiDescription": "Окупаемость инвестиций в программу лояльности",
+    "revenueLift": "Рост выручки",
+    "revenueDescription": "Дополнительная выручка от участников программы лояльности",
+    "topCustomers": "Лучшие клиенты",
+    "noData": "Пока нет данных аналитики. Данные появятся по мере взаимодействия клиентов с вашими программами."
   },
   "apiKeys": {
-    "title": "API & Widget",
-    "apiKeysSection": "API Keys",
-    "newKey": "Generate New Key",
-    "keyName": "Key Name",
-    "keyNamePlaceholder": "e.g. Production API Key",
-    "existingKeys": "Existing Keys",
-    "noKeys": "No API keys yet.",
-    "key": "Key",
-    "createdAt": "Created",
-    "widgetSection": "Embeddable Widget",
-    "widgetDesc": "Drop this into your site's HTML. It renders a join form and balance lookup.",
-    "copySnippet": "Copy Snippet"
+    "title": "API и виджет",
+    "apiKeysSection": "API-ключи",
+    "newKey": "Сгенерировать новый ключ",
+    "keyName": "Название ключа",
+    "keyNamePlaceholder": "например, API-ключ для продакшена",
+    "existingKeys": "Существующие ключи",
+    "noKeys": "Пока нет API-ключей.",
+    "key": "Ключ",
+    "createdAt": "Дата создания",
+    "widgetSection": "Встраиваемый виджет",
+    "widgetDesc": "Вставьте этот код в HTML вашего сайта. Он отображает форму регистрации и проверку баланса.",
+    "copySnippet": "Скопировать сниппет"
   },
   "support": {
-    "title": "Contact Support",
-    "subtitle": "Have a question, issue, or feature request? We'd love to hear from you.",
+    "title": "Связаться с поддержкой",
+    "subtitle": "Есть вопрос, проблема или запрос на функцию? Будем рады от вас услышать.",
     "form": {
-      "name": "Name",
-      "namePlaceholder": "Your name",
-      "email": "Email",
+      "name": "Имя",
+      "namePlaceholder": "Ваше имя",
+      "email": "Электронная почта",
       "emailPlaceholder": "you@example.com",
-      "category": "Category",
+      "category": "Категория",
       "categories": {
-        "general": "General Question",
-        "bug": "Bug Report",
-        "feature": "Feature Request",
-        "billing": "Billing"
+        "general": "Общий вопрос",
+        "bug": "Сообщение об ошибке",
+        "feature": "Запрос на функцию",
+        "billing": "Биллинг"
       },
-      "subject": "Subject",
-      "subjectPlaceholder": "What is this about?",
-      "message": "Message",
-      "messagePlaceholder": "Tell us more...",
-      "submit": "Send Message",
-      "sending": "Sending..."
+      "subject": "Тема",
+      "subjectPlaceholder": "О чём этот запрос?",
+      "message": "Сообщение",
+      "messagePlaceholder": "Расскажите подробнее...",
+      "submit": "Отправить сообщение",
+      "sending": "Отправка..."
     },
-    "success": "Message sent! We'll get back to you within 24 hours.",
-    "otherWays": "Other Ways to Reach Us"
+    "success": "Сообщение отправлено! Мы ответим вам в течение 24 часов.",
+    "otherWays": "Другие способы связаться с нами"
   },
   "admin": {
-    "title": "Admin Panel",
-    "overview": "Platform Overview",
-    "subtitle": "LoyaltyForge platform health and metrics.",
-    "organizations": "Organizations",
-    "users": "Users",
-    "programs": "Programs",
-    "supportTickets": "Support Tickets",
-    "recentOrgs": "Recent Organizations",
-    "totalOrgs": "total organizations on the platform",
-    "totalUsers": "total users across all organizations",
-    "totalPrograms": "total programs across all organizations",
-    "noOrgs": "No organizations yet.",
-    "noUsers": "No users found.",
-    "noPrograms": "No programs found.",
-    "noTickets": "No tickets found.",
+    "title": "Панель администратора",
+    "overview": "Обзор платформы",
+    "subtitle": "Состояние и метрики платформы LoyaltyForge.",
+    "organizations": "Организации",
+    "users": "Пользователи",
+    "programs": "Программы",
+    "supportTickets": "Заявки в поддержку",
+    "recentOrgs": "Последние организации",
+    "totalOrgs": "всего организаций на платформе",
+    "totalUsers": "всего пользователей во всех организациях",
+    "totalPrograms": "всего программ во всех организациях",
+    "noOrgs": "Пока нет организаций.",
+    "noUsers": "Пользователи не найдены.",
+    "noPrograms": "Программы не найдены.",
+    "noTickets": "Заявки не найдены.",
     "ticketFilters": {
-      "all": "All",
-      "open": "Open",
-      "inProgress": "In Progress",
-      "resolved": "Resolved"
+      "all": "Все",
+      "open": "Открытые",
+      "inProgress": "В обработке",
+      "resolved": "Решённые"
     },
     "ticketActions": {
-      "start": "Start",
-      "resolve": "Resolve",
-      "reopen": "Reopen"
+      "start": "Начать",
+      "resolve": "Решить",
+      "reopen": "Переоткрыть"
     }
   },
   "settings": {
-    "apiKeys": "API Keys"
+    "apiKeys": "API-ключи"
   }
 }
