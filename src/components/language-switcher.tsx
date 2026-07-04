@@ -1,14 +1,11 @@
 "use client";
 
 import { useLocale } from "next-intl";
-import { useRouter, usePathname } from "@/i18n/navigation";
 import { locales, localeNames, type Locale } from "@/i18n/config";
 import { useState, useRef, useEffect } from "react";
 
 export function LanguageSwitcher() {
   const locale = useLocale();
-  const router = useRouter();
-  const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 
@@ -23,7 +20,10 @@ export function LanguageSwitcher() {
   }, []);
 
   function handleSwitch(newLocale: Locale) {
-    router.replace(pathname, { locale: newLocale });
+    const currentPath = window.location.pathname;
+    const segments = currentPath.split("/");
+    segments[1] = newLocale;
+    window.location.href = segments.join("/");
     setOpen(false);
   }
 
