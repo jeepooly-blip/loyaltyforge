@@ -465,6 +465,8 @@ export async function setAllowedOrigins(origins: string) {
 /**
  * Returns the current widget config (without the secret hash) for the
  * settings page. allowedOrigins is returned as-is; hasSecret is a boolean.
+ * Kept for potential future use (e.g. a settings-refresh action); the
+ * settings page currently passes initialConfig as a server-rendered prop.
  */
 export async function getWidgetConfig() {
   const ctx = await requireRole(["OWNER", "MANAGER"]);
