@@ -5,6 +5,8 @@ integrate loyalty programs — built to the MVP spec in
 
 `LoyaltyForge – Cafe Loyalty Program Builder SaaS MVP v1.0`.
 
+
+
 ## What's included
 
 - **Multi-tenant data model** — Organization, Membership (OWNER/MANAGER/STAFF),
